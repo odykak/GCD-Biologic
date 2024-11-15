@@ -1,4 +1,4 @@
-# GDC-Biologic
+# GCD-Biologic
 Python script to read and plot galvanostatic charge-discharge data from Biologic equipment.
 
 Plotting GCD files provided that:

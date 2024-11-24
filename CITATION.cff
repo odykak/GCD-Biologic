@@ -1,13 +1,10 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
-title: GCD-Biologic
-message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
-type: software
+message: "If you use this software, please cite it as below."
 authors:
-  - {}
+  - family-names: Kakarelidis
+    given-names: Odysseas
+    orcid: https://orcid.org/0000-0002-3790-2767
+title: GCD-Biologic
+type: software
 repository-code: 'https://github.com/odykak/GCD-Biologic'
 license: MIT
